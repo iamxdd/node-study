@@ -1,0 +1,1 @@
+在此文件中打开git 然后node helloworld.js,则会打出结果
